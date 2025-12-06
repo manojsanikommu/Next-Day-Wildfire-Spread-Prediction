@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+tensorflow==2.15.0
+tqdm
+torch
+torchvision
+torchaudio
+joblib
